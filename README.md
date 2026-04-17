@@ -30,3 +30,6 @@ The workflow follows a standard data pipeline:
 
  - <a href ="https://github.com/priyanshu2003719/Spotify-Dashboard/blob/main/spotify.pbit">DASHBOARD</a>
 
+## 🟢 PROJECT DATA SOURCE :
+- <a href ="https://docs.google.com/spreadsheets/d/11eiH_HurRXnbymNc4pskPdKhnCtC79Tg/edit?gid=183885892#gid=183885892">DATASET SOURCE</a>
+
