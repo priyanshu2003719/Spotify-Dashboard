@@ -17,7 +17,7 @@ The purpose of this project is to identify the key drivers of global music popul
 ## 🟢 PROJECT TECH STACK:
 The workflow follows a standard data pipeline:
 
-1. Data Source: Spotify 2023 Dataset (CSV).
+1. Data Source: Spotify 2023 Dataset.
  - <a href ="https://github.com/priyanshu2003719/Spotify-Dashboard/blob/main/Spotify%20All%20%20Dataset.xlsx"> Spotify Dataset</a>
    
 
