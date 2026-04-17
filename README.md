@@ -1,4 +1,4 @@
-# Spotify Music Analysis
+# Spotify Music Analysis(POWER BI DASHBOARD)
 
 
 ## 🟢 PROJECT DESCRIPTION: 
