@@ -18,6 +18,7 @@ The purpose of this project is to identify the key drivers of global music popul
 The workflow follows a standard data pipeline:
 
 1. Data Source: Spotify 2023 Dataset.
+
  - <a href ="https://github.com/priyanshu2003719/Spotify-Dashboard/blob/main/Spotify%20All%20%20Dataset.xlsx"> Spotify Dataset</a>
    
 2. ETL Layer: Power Query (Cleaning & Formatting).
@@ -25,4 +26,5 @@ The workflow follows a standard data pipeline:
 3. Modeling Layer: Power BI DAX (Creating KPIs like "Avg Streams" and "Total Tracks").
 
 4. Presentation Layer: Power BI Dashboard (Charts and Interactive Slicers).
+
  -<a href ="https://github.com/priyanshu2003719/Spotify-Dashboard/blob/main/spotify.pbit">DASHBOARD</a>
